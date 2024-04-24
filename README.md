@@ -8,4 +8,5 @@ Aby zrealizować projekt przygotuj zestaw funkcji API do realizacji następując
     Otwieranie, czytanie i zamykanie katalogów.
 
 FORMAT FAT 12
+
 Pilk main.c jest wykorzystywany jedynie do testów.
