@@ -1,7 +1,5 @@
 #include "file_reader.h"
 #include <stdio.h>
-#include "tested_declarations.h"
-#include "rdebug.h"
 
 int main() {
     char* expected_names[16] = { "TURN.BIN", "KEEP.TXT", "SEND.TX", "PROVIDE.TX", "DESERT.TX", "SPOT.TXT", "WHETHER.BIN", "SIGNTAKE.BIN", "LOW", "NEED", "IMAGINE", "LOVE", "GONE", "SENSE", "PHRASE", "TENBELLC" };
